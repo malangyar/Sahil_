@@ -1,5 +1,7 @@
 import os
 os.system('git pull')
-print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools")
-print("\n\x1b[1;96m Tool Is Coded By Mr HACKER")
-import i 
+os.system('termux-setup-storage')
+print("\033[1;32m WELCOME TO MY TOLL")
+print("\033[1;32m This Tool Is Cooded By Mr HACKER")
+import i
+Main()
